@@ -11,11 +11,10 @@
 	"vendors":[
 		{"company":{"name":"Reichelt","website":"https://www.reichelt.nl","location":"DE"},"price":9.05,"deliverytime":{"mindays":1,"maxdays":2,"desc":"1-2 days"},"link":"https://www.reichelt.nl/Hammond-Aluminum-Enclosures/1455B1202BK/3/index.html?ACTION=3&LA=446&ARTICLE=121067&GROUPID=7732&artnr=1455B1202BK&SEARCH=alu%2Bcasing"}
 	],
-	"files":{
-		"datasheets":["http://www.hammondmfg.com/pdf/1455D602.pdf"],
-		"images":["http://www.hammondmfg.com/jpeg2/1455P1602_A2_B.jpg"],
-		"cadfiles":[
-			{"STEP":"http://www.hammondmfg.com/3DZip/1455D602.zip"}
-		]
-	}
+	"files":[
+		{"type":"datasheet","url":"http://www.hammondmfg.com/pdf/1455D602.pdf"},
+		{"type":"image","url":"http://www.hammondmfg.com/jpeg2/1455P1602_A2_B.jpg"},
+		{"type":"step","skip":true,"extract":true,"url":"http://www.hammondmfg.com/3DZip/1455D602.zip"},
+		{"type":"step","extract":["1455D602.stp"],"url":"http://www.hammondmfg.com/3DZip/1455D602.zip"}
+	]
 }
