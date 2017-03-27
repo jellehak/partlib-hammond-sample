@@ -1,0 +1,10 @@
+{
+	"title":"Hammond Enclosures package",
+	"description":"Several Extruded alu enclosures",
+	"website":"http://www.hammondmfg.com",
+	"category":"enclosures",
+	"tags":["enclosures","alu",""],
+	"files":[
+		"1455D602.json","1455D802.json"
+	]
+}
