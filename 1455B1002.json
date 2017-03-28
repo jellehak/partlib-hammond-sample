@@ -14,6 +14,6 @@
 	"files":[
 		{"type":"datasheet","url":"http://www.hammondmfg.com/pdf/1455B1002.pdf"},
 		{"type":"image","url":"http://www.hammondmfg.com/jpeg2/1455P1602_A2_B.jpg"},
-		{"type":"step","url":"http://www.hammondmfg.com/3DZip/1455B1002.zip"}
+		{"type":"step","extract":["1455D602.stp"],"url":"http://www.hammondmfg.com/3DZip/1455B1002.zip"}
 	]
 }
