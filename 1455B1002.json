@@ -1,0 +1,19 @@
+{
+	"name":"hammond-1455B1002",
+	"version": "1.0.0",
+	"title":"Hammond Enclosure 1455B1002",
+	"description":"Extruded alu enclosure - DESIGNED FOR 39MM WIDE PC BOARD",
+	"partnumber":"1455B1002",
+	"derivedparts":["1455B1002","1455B1002BK","1455B1002BU","1455B1002RD"],
+	"derivednotice":"= clear, BK = Black, BU = Blue, RD = Red",
+	"units":"metric",
+	"dimensions":{"length":100,"width":71.7,"height":19,"units":"mm"},
+	"weight":0.1,
+	"website":"http://www.hammondmfg.com/1455V2.htm",
+	"vendors":[],
+	"files":[
+		{"type":"datasheet","url":"http://www.hammondmfg.com/pdf/1455B1002.pdf"},
+		{"type":"image","url":"http://www.hammondmfg.com/jpeg2/1455P1602_A2_B.jpg"},
+		{"type":"step","url":"http://www.hammondmfg.com/3DZip/1455B1002.zip"}
+	]
+}

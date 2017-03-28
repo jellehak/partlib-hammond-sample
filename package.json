@@ -1,9 +1,12 @@
 {
+	"name":"hammond-enclosures-sample",
+	"version": "1.0.0",
 	"title":"Hammond Enclosures package",
 	"description":"Several Extruded alu enclosures",
 	"website":"http://www.hammondmfg.com",
 	"category":"enclosures",
 	"tags":["enclosures","alu",""],
+	"source":"http://www.hammondmfg.com/1455V2.htm",
 	"files":[
 		"1455D602.json","1455D802.json"
 	]
