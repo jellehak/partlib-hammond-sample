@@ -1,0 +1,57 @@
+{
+	"scheme":"0.0.2",
+	"name": "company-productid",
+	"version": "1.0.0",
+	"title":"",
+	"description": "",
+	"partnumber": "",
+	"derivedparts": [	],
+	"units": "metric",
+	"dimensions": {
+		"length": 0,
+		"width": 0,
+		"height": 0,
+		"units": "mm"
+	},
+	"manufacturer": {
+		"uid":"30caa79a-fe15-46b2-8dcc-5b5274dad88f",
+		"title": "",
+		"website": "",
+		"country": "",
+		"address":""
+	},
+	"extra":{},
+	"weight": 0.1,
+	"video":"",
+	"image": "",
+	"link": "",
+	"vendors": [
+		{
+			"company": {
+				"uid":"30caa79a-fe15-46b2-8dcc-5b5274dad88f",
+				"title": "Example company",
+				"website": "https://www.example.nl",
+				"country": "XX",
+				"address":""
+			},
+			"price": 0,
+			"deliverytime": {
+				"mindays": 0,
+				"maxdays": 999,
+				"desc": "? days"
+			},
+			"url": "https://www.example.nl"
+		}
+	],
+	"files": [
+		{
+			"type": "datasheet",
+			"url": "http://www.fyhbearings.com/html/SBPFL/sbpfl206.pdf"
+		},
+		{
+			"type": "step",
+			"skip": true,
+			"url": "https://www.onkenhout.nl/forms?type=request&name=cadfile&artikelen1=97-30-160-11"
+		}
+	]
+}

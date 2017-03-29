@@ -1,0 +1,36 @@
+{
+	"scheme":"0.0.2",
+	"name": "fyh-sbpf206",
+	"version": "1.0.0",
+	"title":"",
+	"description": "fyh-sbpf206 shaft 30mm",
+	"partnumber": "",
+	"derivedparts": [	],
+	"units": "metric",
+	"dimensions": {
+		"length": 113,
+		"width": 90.5,
+		"height": 0,
+		"units": "mm"
+	},
+	"manufacturer": {
+		"title": "fyh",
+		"website": "http://www.fyhbearings.com"
+	},
+	"extra":{},
+	"weight": 0,
+	"video":"",
+	"image": "http://www.fyhbearings.com/html/images/SBPF.jpg",
+	"link": "http://www.fyhbearings.com/html/SBPF/sbpf206.html",
+	"files": [
+		{
+			"type": "datasheet",
+			"url": "http://www.fyhbearings.com/html/SBPFL/sbpf206.pdf"
+		},
+		{
+			"type": "step",
+			"skip": true,
+			"url": "http://nippon-pb.partcommunity.com/partserver/preview/12017032922332318013921260eae72/NIPPON_PB_SBPF206.zip"
+		}
+	]
+}
