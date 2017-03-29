@@ -1,4 +1,5 @@
 {
+	"state":"wip",
 	"scheme":"0.0.2",
 	"name": "company-productid",
 	"version": "1.0.0",
@@ -50,7 +51,7 @@
 		},
 		{
 			"type": "step",
-			"skip": true,
+			"extract": true,
 			"url": "https://www.onkenhout.nl/forms?type=request&name=cadfile&artikelen1=97-30-160-11"
 		}
 	]

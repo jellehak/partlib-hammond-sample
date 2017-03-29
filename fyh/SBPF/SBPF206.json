@@ -29,7 +29,7 @@
 		},
 		{
 			"type": "step",
-			"skip": true,
+			"extract": true,
 			"url": "http://nippon-pb.partcommunity.com/partserver/preview/12017032922332318013921260eae72/NIPPON_PB_SBPF206.zip"
 		}
 	]
