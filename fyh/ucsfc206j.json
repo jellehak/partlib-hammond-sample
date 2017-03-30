@@ -1,0 +1,37 @@
+{
+	"scheme":"0.0.2",
+	"name": "fyh-ucsfc206j",
+	"version": "1.0.0",
+	"title":"",
+	"description": "fyh-ucsfc206j shaft 30mm",
+	"partnumber": "",
+	"derivedparts": [	],
+	"units": "metric",
+	"dimensions": {
+		"length": 113,
+		"width": 90.5,
+		"height": 0,
+		"units": "mm"
+	},
+	"manufacturer": {
+		"title": "fyh",
+		"website": "http://www.fyhbearings.com"
+	},
+	"extra":{},
+	"weight": 0,
+	"video":"",
+	"image": "http://www.fyhbearings.com/html/images/UCSFC.jpg",
+	"link": "http://www.fyhbearings.com/html/UCSFC/ucsfc206j.html",
+	"files": [
+		{ "type":"image","url":"http://www.fyhbearings.com/html/images/downloads_images/ucsfc.jpg"},
+		{
+			"type": "datasheet",
+			"url": "http://www.fyhbearings.com/html/UCSFC/ucsfc206j.pdf"
+		},
+		{
+			"type": "step",
+			"extract": true,
+			"url": "http://nippon-pb.partcommunity.com/partserver/preview/12017033009142876821673260eae72/NIPPON_PB_UCSFC206H1S6.zip"
+		}
+	]
+}

@@ -1,0 +1,19 @@
+{
+	"name": "abb-IRB6700",
+	"version": "1.0.0",
+	"title":"IRB 6700",
+	"description": "heavy industrial robot",
+	"manufacturer": {
+		"title": "Abb"
+	},
+	"extra":{},
+	"link": "http://new.abb.com/products/robotics/industrial-robots/irb-6700/cad-models",
+	"vendors": [],
+	"files": [
+		{
+			"type": "step",
+			"extract": true,
+			"url": "https://library.e.abb.com/public/759de16ed986410ba9f6deb9fad05ebf/IRB6700_155-285_IRC5_rev03_STEP_j.zip"
+		}
+	]
+}

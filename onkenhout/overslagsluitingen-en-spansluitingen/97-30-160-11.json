@@ -1,0 +1,59 @@
+{
+	"name": "onkenhout-97-30-160-11",
+	"version": "1.0.0",
+	"title":"Spansluiting klein (97)",
+	"description": "Eenvoudig met de hand te openen en te sluiten\nSluiting heeft een aantrekkende werking en is trillingsbestendig\n Servicevriendelijk; geen losse componenten\n Leverbaar in RVS en staal verzinkt",
+	"partnumber": "97-30-160-11",
+	"derivedparts": [
+		"97-30-160-11",
+		"97-37-103-11",
+		"97-37-101-11",
+		"97-37-105-11",
+		"97-37-104-11",
+		"97-37-102-11",
+		"97-30-160-12",
+		"97-37-103-24",
+		"97-37-101-24",
+		"97-37-105-24",
+		"97-37-104-24",
+		"97-37-102-24"
+	],
+	"units": "metric",
+	"dimensions": {
+		"length": 0,
+		"width": 0,
+		"height": 0,
+		"units": "mm"
+	},
+	"weight": 0.1,
+	"video":"https://player.vimeo.com/video/108781051?portrait=0&badge=0&byline=0&title=0",
+	"image": "https://www.onkenhout.nl/media/catalog/product/cache/3/small_image/196x196/9df78eab33525d08d6e5fb8d27136e95/s/p/spansluiting_groot_1.jpg",
+	"website": "http://www.hammondmfg.com/1455V2.htm",
+	"vendors": [
+		{
+			"company": {
+				"name": "Onkenhout",
+				"website": "https://www.onkenhout.nl",
+				"location": "NL"
+			},
+			"price": 0,
+			"deliverytime": {
+				"mindays": 0,
+				"maxdays": 999,
+				"desc": "? days"
+			},
+			"url": "https://www.onkenhout.nl"
+		}
+	],
+	"files": [
+		{
+			"type": "datasheet",
+			"url": "https://www.onkenhout.nl/pdf/Overslagsluitingen_-_Over-centre_sluiting_klein_97_/790/t/p"
+		},
+		{
+			"type": "step",
+			"skip": true,
+			"url": "https://www.onkenhout.nl/forms?type=request&name=cadfile&artikelen1=97-30-160-11"
+		}
+	]
+}
