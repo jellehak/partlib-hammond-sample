@@ -1,0 +1,23 @@
+{
+	"name": "imi-precision-RM-8025-M-150",
+	"version": "1.0.0",
+	"title":"ISO Roundline Cylinders",
+	"description": "ISO Roundline Cylinders",
+	"manufacturer": {
+		"title": "imi-precision"
+	},
+	"extra":{},
+	"link": "https://www.imi-precision.com/uk/en/detail/rm_8025_m_150/iso-roundline-cylinders",
+    "links":[
+        {"type":"configurator","url":"https://www.imi-precision.com/uk/en/Configure.aspx?pn=RM/8025/M/150"}
+    ],
+	"vendors": [],
+	"files": [
+        {"type":"datasheet","url":"https://d25g25bk48as5o.cloudfront.net/pdf/en_1_5_021_RM_8000.pdf"},
+		{
+			"type": "step",
+			"extract": true,
+			"url": "https://imi-precision-embedded.partcommunity.com/partserver/preview/02017033111560410455089192d056f/IMI_PRECISION_RM8025M150MagneticPiston0B0.zip"
+		}
+	]
+}

@@ -9,6 +9,8 @@ FYH
     partm install https://raw.githubusercontent.com/jellehak/partm-lib-sample/master/fyh/SBPF/SBPF206.json
     partm install https://raw.githubusercontent.com/jellehak/partm-lib-sample/master/fyh/SBPF/SBPFL206.json
 
+    partm install https://raw.githubusercontent.com/jellehak/partm-lib-sample/master/fyh/ucsfc206j.json
+
 Hammond
 
     partm install https://raw.githubusercontent.com/jellehak/partm-lib-sample/master/hammond/1455A802.json
