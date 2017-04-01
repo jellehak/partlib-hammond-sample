@@ -1,0 +1,12 @@
+{
+	"name": "skf-W619-1.5",
+	"version": "1.0.0",
+    "link":"http://www.skf.com/group/products/bearings-units-housings/ball-bearings/deep-groove-ball-bearings/deep-groove-ball-bearings/index.html?designation=W%20619/1.5&unit=metricUnit",
+	"files": [
+		{
+			"type": "step",
+			"extract": true,
+			"url": "http://www.skf.com/cadDownload/02017040114254849932979192d056f/PARTserver02017040114254849932979192d056f.zip"
+		}
+	]
+}
