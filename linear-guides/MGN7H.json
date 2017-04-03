@@ -1,0 +1,15 @@
+{
+	"name": "MGN7H",
+    "description":"Linear guides MGN Series (7 mm)",
+	"version": "1.0.0",
+    "author":"Lehaiver",
+    "image":"https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/68125e61b47be7015397a76878135609/large.JPG",
+    "link":"https://grabcad.com/library/mgn7-h-linear-guide-1",
+	"files": [
+		{
+			"type": "archive",
+			"extract": "*",
+			"url": "https://d2t1xqejof9utc.cloudfront.net/cads/files/f1509e8b3f188d392b0d4d77e81720ff/original.zip"
+		}
+	]
+}
