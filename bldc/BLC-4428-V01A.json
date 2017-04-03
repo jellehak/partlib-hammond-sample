@@ -17,22 +17,27 @@
 		},
 		{
 			"type": "firmware",
+			"extract":true,
 			"url": "http://home.versanet.de/~b-konze/blc_4428/QUAX_4428_ARMO_mega8_r01.zip"
 		},
 		{
 			"type": "firmware",
+			"extract":true,
 			"url": "http://home.versanet.de/~b-konze/blc_4428/QUAX_4428_I2C_mega88_r08.zip"
 		},
 		{
 			"type": "firmware",
+			"extract":true,
 			"url": "http://home.versanet.de/~b-konze/blc_4428/QUAX_4428_PPM_mega88_r02.zip"
 		},
 		{
 			"type": "firmware",
+			"extract":true,
 			"url": "http://home.versanet.de/~b-konze/blc_4428/QUAX_4428_UART_mega88_r06.zip"
 		},
 		{
 			"type": "firmware",
+			"extract":true,
 			"url": "http://home.versanet.de/~b-konze/blc_4428/QUAX_4428af_UART_mega88_r02.zip"
 		}
 	]
