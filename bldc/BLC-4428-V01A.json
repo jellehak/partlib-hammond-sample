@@ -3,6 +3,7 @@
 	"version": "1.0.0",
 	"description":"a bldc esc design from b-konze include schematics and firmware",
     "link":"http://home.versanet.de/~b-konze/blc_4428/blc_4428.htm",
+	"image":"http://home.versanet.de/~b-konze/blc_4428/QUAX-4428_V01A_sch.gif",
 	"files": [
 		{
 			"type": "datasheet",
