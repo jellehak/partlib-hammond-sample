@@ -1,0 +1,15 @@
+{
+	"name": "17HS08-1004S",
+    "description":"Nema 17 (20mm) stepper motor",
+	"version": "1.0.0",
+    "author":"Lehaiver",
+    "image":"https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/7b3d5b88e1cc62dc90b5dd7f9df0b4d5/large.JPG",
+    "link":"https://grabcad.com/library/nema-17-20mm-stepper-motor-1/details?folder_id=2791515",
+	"files": [
+		{
+			"type": "archive",
+			"extract": "*",
+			"url": "https://d2t1xqejof9utc.cloudfront.net/cads/files/a6053ac0e05950110b0330b0ca705c19/original.zip"
+		}
+	]
+}
