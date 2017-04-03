@@ -1,0 +1,45 @@
+{
+	"name": "b-konze-BLC-4428-V01A",
+	"version": "1.0.0",
+	"description":"a bldc esc design from b-konze include schematics and firmware",
+    "link":"http://home.versanet.de/~b-konze/blc_4428/blc_4428.htm",
+	"image":"http://home.versanet.de/~b-konze/blc_4428/QUAX-4428_V01A_sch.gif",
+	"files": [
+		{
+			"type": "datasheet",
+			"url": "http://home.versanet.de/~b-konze/blc_4428/QUAX-4428_V01A_.pdf"
+		},{
+			"type": "image",
+			"url": "http://home.versanet.de/~b-konze/blc_4428/QUAX-4428_V01A_sch.gif"
+		},
+		{
+			"type": "image",
+			"url": "http://home.versanet.de/~b-konze/blc_4428/QUAX_4428_012.jpg"
+		},
+		{
+			"type": "firmware",
+			"extract":true,
+			"url": "http://home.versanet.de/~b-konze/blc_4428/QUAX_4428_ARMO_mega8_r01.zip"
+		},
+		{
+			"type": "firmware",
+			"extract":true,
+			"url": "http://home.versanet.de/~b-konze/blc_4428/QUAX_4428_I2C_mega88_r08.zip"
+		},
+		{
+			"type": "firmware",
+			"extract":true,
+			"url": "http://home.versanet.de/~b-konze/blc_4428/QUAX_4428_PPM_mega88_r02.zip"
+		},
+		{
+			"type": "firmware",
+			"extract":true,
+			"url": "http://home.versanet.de/~b-konze/blc_4428/QUAX_4428_UART_mega88_r06.zip"
+		},
+		{
+			"type": "firmware",
+			"extract":true,
+			"url": "http://home.versanet.de/~b-konze/blc_4428/QUAX_4428af_UART_mega88_r02.zip"
+		}
+	]
+}

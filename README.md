@@ -21,3 +21,7 @@ Hammond
     partm install https://raw.githubusercontent.com/jellehak/partm-lib-sample/master/hammond/1455C802.json
     partm install https://raw.githubusercontent.com/jellehak/partm-lib-sample/master/hammond/1455D802.json
     partm install https://raw.githubusercontent.com/jellehak/partm-lib-sample/master/hammond/1455D602.json
+    
+Shaeffler
+
+    partm install https://raw.githubusercontent.com/jellehak/partm-lib-sample/master/shaeffler/PSHE30-XL-N.json
